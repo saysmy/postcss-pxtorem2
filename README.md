@@ -2,12 +2,16 @@
  * @Date: 2019-10-23 09:04:00
  * @Author: Morisun
  * @LastEditors: Morisun
- * @LastEditTime: 2019-10-23 11:41:45
+ * @LastEditTime: 2019-10-23 12:01:47
  -->
 # postcss-pxtorem [![NPM version](https://badge.fury.io/js/postcss-pxtorem.svg)](http://badge.fury.io/js/postcss-pxtorem)
 
 A plugin for [PostCSS](https://github.com/ai/postcss) that generates rem units from pixel units.
 
+
+### Note: this repository is based on [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem).
+
+change: add exclude option
 
 ## Usage
 
